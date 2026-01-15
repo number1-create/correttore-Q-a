@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Q001",
+    "question": "Quanto fa 15 + 27?",
+    "answers": [
+      {"letter": "A", "text": "41"},
+      {"letter": "B", "text": "42"},
+      {"letter": "C", "text": "43"},
+      {"letter": "D", "text": "44"}
+    ],
+    "correct_answer": "B",
+    "category": "Matematica"
+  },
+  {
+    "id": "Q002",
+    "question": "Qual è la capitale dell'Italia?",
+    "answers": [
+      {"letter": "A", "text": "Milano"},
+      {"letter": "B", "text": "Roma"},
+      {"letter": "C", "text": "Napoli"},
+      {"letter": "D", "text": "Firenze"}
+    ],
+    "correct_answer": "B",
+    "category": "Geografia"
+  },
+  {
+    "id": "Q003",
+    "question": "Quanto fa 8 x 7?",
+    "answers": [
+      {"letter": "A", "text": "54"},
+      {"letter": "B", "text": "55"},
+      {"letter": "C", "text": "56"},
+      {"letter": "D", "text": "57"}
+    ],
+    "correct_answer": "A",
+    "category": "Matematica"
+  },
+  {
+    "id": "Q004",
+    "question": "In che anno è iniziata la Seconda Guerra Mondiale?",
+    "answers": [
+      {"letter": "A", "text": "1937"},
+      {"letter": "B", "text": "1938"},
+      {"letter": "C", "text": "1939"},
+      {"letter": "D", "text": "1940"}
+    ],
+    "correct_answer": "C",
+    "category": "Storia"
+  },
+  {
+    "id": "Q005",
+    "question": "Qual è il risultato di 144 / 12?",
+    "answers": [
+      {"letter": "A", "text": "10"},
+      {"letter": "B", "text": "11"},
+      {"letter": "C", "text": "12"},
+      {"letter": "D", "text": "13"}
+    ],
+    "correct_answer": "B",
+    "category": "Matematica"
+  }
+]
